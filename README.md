@@ -70,7 +70,7 @@ AWS_SECRET_ACCESS_KEY: Your AWS secret access key.
 AWS_REGION: ap-south-1
 AWS_ECR_LOGIN_URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com
 ECR_REPOSITORY_NAME: sensor-fault
-MONGO_DB_URL: mongodb+srv://avnish:Aa327030@cluster0.or68e.mongodb.net/admin?authSource=admin&replicaSet=atlas-desfdx-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true
+MONGO_DB_URL: mongodb+srv://Ranjith:Aa327030@cluster0.or68e.mongodb.net/admin?authSource=admin&replicaSet=atlas-desfdx-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true
 
 Deployment Description
 Follow these steps for deployment:
